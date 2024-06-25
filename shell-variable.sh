@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #variable vaules
-string1=10
-String1=20
+string1=20
+String1=30
 
 echo "The value of string 1 is $string1 "
 echo "The value od String 1 is $String1 "
